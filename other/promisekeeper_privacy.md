@@ -1,7 +1,6 @@
 ---
 layout: plain_page
 title: Privacy Policy for PromiseKeeper
-permalink: /promise_keeper/policy/
 ---
 
 # Privacy Policy  
