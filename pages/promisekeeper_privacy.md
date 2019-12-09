@@ -4,8 +4,7 @@ title: Privacy Policy for PromiseKeeper
 permalink: /promise_keeper/policy/
 ---
 
-Privacy Policy  
-==============
+# Privacy Policy  
 
 Effective date: December 07, 2019
 
@@ -23,8 +22,7 @@ agree to the collection and use of information in accordance with this policy.
 Unless otherwise defined in this Privacy Policy, the terms used in this
 Privacy Policy have the same meanings as in our Terms and Conditions.
 
-Definitions  
------------
+## Definitions  
 
   * Service
 
@@ -46,17 +44,14 @@ Definitions
 
     Cookies are small files stored on your device (computer or mobile device).
 
-Information Collection and Use  
-------------------------------
+## Information Collection and Use  
 
 We collect several different types of information for various purposes to
 provide and improve our Service to you.
 
-Types of Data Collected  
-~~~~~~~~~~~~~~~~~~~~~~~
+### Types of Data Collected  
 
-Personal Data  
-*************
+#### Personal Data  
 
 While using our Service, we may ask you to provide us with certain personally
 identifiable information that can be used to contact or identify you
@@ -65,8 +60,7 @@ limited to:
 
   * Cookies and Usage Data
 
-Usage Data  
-**********
+#### Usage Data  
 
 When you access the Service by or through a mobile device, we may collect
 certain information automatically, including, but not limited to, the type of
@@ -75,8 +69,7 @@ mobile device, your mobile operating system, the type of mobile Internet
 browser you use, unique device identifiers and other diagnostic data ("Usage
 Data").
 
-Tracking &amp; Cookies Data  
-************
+#### Tracking &amp; Cookies Data  
 
 We use cookies and similar tracking technologies to track the activity on our
 Service and we hold certain information.
@@ -98,8 +91,7 @@ Examples of Cookies we use:
     and various settings.
   * Security Cookies. We use Security Cookies for security purposes.
 
-Use of Data  
------------
+## Use of Data  
 
 PromiseKeeper uses the collected data for various purposes:
 
@@ -113,8 +105,7 @@ PromiseKeeper uses the collected data for various purposes:
   * To monitor the usage of the Service
   * To detect, prevent and address technical issues
 
-Transfer Of Data  
-----------------
+## Transfer Of Data  
 
 Your information, including Personal Data, may be transferred to - and
 maintained on - computers located outside of your state, province, country or
@@ -134,11 +125,9 @@ transfer of your Personal Data will take place to an organization or a country
 unless there are adequate controls in place including the security of your
 data and other personal information.
 
-Disclosure Of Data  
-------------------
+## Disclosure Of Data  
 
-Legal Requirements  
-~~~~~~~~~~~~~~~~~~
+### Legal Requirements  
 
 PromiseKeeper may disclose your Personal Data in the good faith belief that
 such action is necessary to:
@@ -154,16 +143,14 @@ As an European citizen, under GDPR, you have certain individual rights. You
 can learn more about these guides in the [GDPR
 Guide](https://termsfeed.com/blog/gdpr/#Individual_Rights_Under_the_GDPR).
 
-Security of Data  
-----------------
+## Security of Data  
 
 The security of your data is important to us but remember that no method of
 transmission over the Internet or method of electronic storage is 100% secure.
 While we strive to use commercially acceptable means to protect your Personal
 Data, we cannot guarantee its absolute security.
 
-Service Providers  
------------------
+## Service Providers  
 
 We may employ third party companies and individuals to facilitate our Service
 ("Service Providers"), to provide the Service on our behalf, to perform
@@ -173,8 +160,7 @@ These third parties have access to your Personal Data only to perform these
 tasks on our behalf and are obligated not to disclose or use it for any other
 purpose.
 
-Links to Other Sites  
---------------------
+## Links to Other Sites  
 
 Our Service may contain links to other sites that are not operated by us. If
 you click a third party link, you will be directed to that third party's site.
@@ -183,8 +169,7 @@ We strongly advise you to review the Privacy Policy of every site you visit.
 We have no control over and assume no responsibility for the content, privacy
 policies or practices of any third party sites or services.
 
-Children's Privacy  
-------------------
+## Children's Privacy  
 
 Our Service does not address anyone under the age of 18 ("Children").
 
@@ -195,8 +180,7 @@ aware that we have collected Personal Data from children without verification
 of parental consent, we take steps to remove that information from our
 servers.
 
-Changes to This Privacy Policy  
-------------------------------
+## Changes to This Privacy Policy  
 
 We may update our Privacy Policy from time to time. We will notify you of any
 changes by posting the new Privacy Policy on this page.
@@ -208,8 +192,3 @@ this Privacy Policy.
 You are advised to review this Privacy Policy periodically for any changes.
 Changes to this Privacy Policy are effective when they are posted on this
 page.
-
-Contact Us  
-----------
-
-If you have any questions about this Privacy Policy, please contact us:
